@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>ss.png</filename>
+	<path>E:\Workspace\Python\ObjectDetection\TensorFlowObjectDetectionAPI\CustomImages\Images/ss.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>77</width>
+		<height>98</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spaceship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>24</ymin>
+			<xmax>63</xmax>
+			<ymax>69</ymax>
+		</bndbox>
+	</object>
+</annotation>
